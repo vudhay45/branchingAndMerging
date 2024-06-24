@@ -1,1 +1,1 @@
-now i crreated a chapter3.txt file to it and i am adding to the staging area and to git repository.
+now i am just learning the branching and merging its is very easy to learn and easy to implement.
